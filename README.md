@@ -4,6 +4,7 @@
 > I build meaning.”
 
 🧠 Identity (In Progress)
+
 I exist somewhere between a **developer** and a **creative.** Not choosing one, but learning how to make both stronger together.
 
 * 🎨 I create stories, visuals, and concepts
@@ -13,7 +14,9 @@ I exist somewhere between a **developer** and a **creative.** Not choosing one, 
 Right now, I’m exploring how **technology can amplify creativity** and how **creativity can humanize technology**.
 
 🎬 Current Era
+
 mode: creative-builder
+
 exploring:
   - AI + Creativity
   - Story-driven educational content
@@ -40,6 +43,7 @@ I like outputs that:
 * go beyond “requirement lang”
 
 🎯 Direction
+
 I’m not chasing trends.
 
 I’m building towards:
@@ -50,6 +54,7 @@ I’m building towards:
 * 🙏 a purpose-driven path
 
 ⚙️ Tools I Use to Create
+
 Creative:
   - Video Editing & Concept Development
   - Story Writing / Script Thinking
@@ -68,6 +73,7 @@ Mindset:
 If it’s easy, obvious, and forgettable, I probably won’t be satisfied with it.
 
 📌 Closing Thought
+
 I’m still learning. Still experimenting.
 
 But one thing’s clear:
